@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TheMatteoD
 - 👀 I’m interested in software engineering and the endless possibilities of programming!
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning more deeply about big O, data structures, and algorithms
 - 📫 How to reach me: linkedin.com/in/matteodesimone1/ or thematteod@gmail.com
