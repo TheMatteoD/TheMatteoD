@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TheMatteoD
 - 👀 I’m interested in software engineering and the endless possibilities of programming!
-- 🌱 I’m currently looking to contribute to open-source projects.
+- 🌱 I’m currently creating personal web applications using .Net Core with Angular and React.
 - 📫 How to reach me: linkedin.com/in/matteodesimone1/ or thematteod@gmail.com
+- 
