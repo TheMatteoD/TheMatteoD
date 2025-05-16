@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TheMatteoD
-- 👀 I’m interested in software engineering and the endless possibilities of programming!
-- 🌱 I’m currently creating personal web applications using .Net Core with Angular and React.
+- 👀 I have professional experience as a Software Engineer and academic experience as a Data Scientist/Machine Learning Engineer
+- 🌱 I’m currently creating personal projects, competing on Kaggle, and working towards a Bachelors of Analytics followed by a Masters of Data Analytics  
 - 📫 How to reach me: linkedin.com/in/matteodesimone1/ or thematteod@gmail.com
+- 
 - 
